@@ -1,2 +1,2 @@
-# May_2025_DeepFake_Project
+# **Project Title:** Laptop Price Predictor using Machine Learning
 Capstone Pair Project

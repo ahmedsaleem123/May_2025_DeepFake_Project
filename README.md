@@ -1,6 +1,5 @@
 # Capstone Pair Project
 
-| **Field**               | **Details**                  |
 | ----------------------- | ---------------------------- |
 | **Module Title**        | Problem Solving for Industry |
 | **Assessment Title**    | Capstone Pair Project        |

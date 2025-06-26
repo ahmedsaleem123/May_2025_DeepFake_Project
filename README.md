@@ -1,14 +1,9 @@
 # Capstone Pair Project
 
 
-| ----------------------- | ---------------------------- |
-| **Module Title**        | Problem Solving for Industry |
-| **Assessment Title**    | Capstone Pair Project        |
-| **Lecturer Name**       | Dr. Muhammad Iqbal           |
-| **Student 1 Full Name** | Shivam Kumar Mehta           |
-| **Student 1 Number**    | 020359                       |
-| **Student 2 Full Name** | Ahmed Saleem                 |
-| **Student 2 Number**    | 2020340                      |
+![image](https://github.com/user-attachments/assets/eaf90cb3-c6f5-4aca-9602-625e960fa4ca)
+![image](https://github.com/user-attachments/assets/eaf90cb3-c6f5-4aca-9602-625e960fa4ca)
+
 
 
 
